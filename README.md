@@ -67,11 +67,3 @@ Hey Internet Provider, why is my Internet speed 15Mbps down / 5Mbps up when I pa
 ## Contributing
 
 Contributions are welcome! Feel free to submit a Pull Request or open an issue.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Now you can just copy and paste this into your `README.md` file!
