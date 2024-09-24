@@ -1,7 +1,3 @@
-Here's the complete **README** for your **Internet Speed Twitter Bot**:
-
----
-
 # Internet Speed Twitter Bot
 
 This Python bot automates the process of checking your internet speed using [SpeedTest](https://www.speedtest.net/) and tweets at your Internet Service Provider (ISP) if the speeds are below your promised plan.
