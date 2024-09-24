@@ -20,7 +20,7 @@ This Python bot automates the process of checking your internet speed using [Spe
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/internet-speed-twitter-bot.git
+    git clone https://github.com/ahmed00faraz/internet-speed-twitter-bot.git
     cd internet-speed-twitter-bot
     ```
 
